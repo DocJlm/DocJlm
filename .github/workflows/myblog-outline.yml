@@ -1,0 +1,17 @@
+on: [push]
+
+jobs:
+  hello_world_job:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    name: Updates Blog Outline
+    steps:
+    - uses: actions/checkout@v2
+    - name: Updates Blog Outline
+      uses: DocJlm/js-action@v1.5 
+      with:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        COMMITTER_USERNAME : "DocJlm" 
+        COMMITTER_EMAIL : "zqc0914@gmail.com" 
+        MAX_LINES: '8'
