@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Qian Chen Zhao<br><br> <img src="https://komarev.com/ghpvc/?username=DocJlm&style=for-the-badge"></h1>
 
 # 💫 About Me:
-🌐 My Website: [[link](https://www.zqcblog.com/)]**zqcblog.com**<br><br>📺 My YouTube Channel: [link]<br><br>🛠️ I’m currently working on: [link or description]<br><br>🌱 I’m currently learning Java backend development and deep learning<br><br>✍️ I regularly write articles on my website and Medium: [link]<br><br>📫 How to reach me **zqc0914@gmail.com**<br><br>📄 Resume: [resume link]<br><br>
+🌐 My Website: [[zqcblog.com](https://www.zqcblog.com/)]<br><br>📺 My YouTube Channel: [link]<br><br>🛠️ I’m currently working on: [link or description]<br><br>🌱 I’m currently learning Java backend development and deep learning<br><br>✍️ I regularly write articles on my website and Medium: [link]<br><br>📫 How to reach me **zqc0914@gmail.com**<br><br>📄 Resume: [resume link]<br><br>
 
 
 # 💻 Tech Stack:
