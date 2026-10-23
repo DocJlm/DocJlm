@@ -1,0 +1,92 @@
+{
+  "repository": "https://github.com/fexli/ArknightsResource",
+  "revision": "de6cfb30ed1d41d9102d93e8ea400fc0cefc8ff7",
+  "assets": [
+    {
+      "name": "amiya",
+      "id": "char_002_amiya",
+      "base": "char_002_amiya",
+      "files": [
+        {
+          "url": "https://raw.githubusercontent.com/fexli/ArknightsResource/de6cfb30ed1d41d9102d93e8ea400fc0cefc8ff7/spine/char_002_amiya/char_002_amiya/Front/char_002_amiya.atlas",
+          "file": "amiya/char_002_amiya.atlas",
+          "sha256": "85c7b44351306fb0e14da849db84f31f0a566519be3390a6e143ff0a8590b2a9"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/fexli/ArknightsResource/de6cfb30ed1d41d9102d93e8ea400fc0cefc8ff7/spine/char_002_amiya/char_002_amiya/Front/char_002_amiya.skel",
+          "file": "amiya/char_002_amiya.skel",
+          "sha256": "db049b479a3812517419c60d29751a6d7193c174fd128718bcaecc67fe064284"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/fexli/ArknightsResource/de6cfb30ed1d41d9102d93e8ea400fc0cefc8ff7/spine/char_002_amiya/char_002_amiya/Front/char_002_amiya.png",
+          "file": "amiya/char_002_amiya.png",
+          "sha256": "90a971ac4bec2e1360668c7a32c2262f9342ddcea6663e5755b47a2a6255d22f"
+        }
+      ]
+    },
+    {
+      "name": "kaltsit",
+      "id": "char_003_kalts",
+      "base": "char_003_kalts",
+      "files": [
+        {
+          "url": "https://raw.githubusercontent.com/fexli/ArknightsResource/de6cfb30ed1d41d9102d93e8ea400fc0cefc8ff7/spine/char_003_kalts/char_003_kalts/Front/char_003_kalts.atlas",
+          "file": "kaltsit/char_003_kalts.atlas",
+          "sha256": "660817f5df39499cafd1fbc5b4dd2601fa6d7c41b9fb8ccc21f25a6e58ecff78"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/fexli/ArknightsResource/de6cfb30ed1d41d9102d93e8ea400fc0cefc8ff7/spine/char_003_kalts/char_003_kalts/Front/char_003_kalts.skel",
+          "file": "kaltsit/char_003_kalts.skel",
+          "sha256": "cf7d424394eb283ecfc78c199f6576e6f983374e8d45a40bebee31d3503a6d2a"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/fexli/ArknightsResource/de6cfb30ed1d41d9102d93e8ea400fc0cefc8ff7/spine/char_003_kalts/char_003_kalts/Front/char_003_kalts.png",
+          "file": "kaltsit/char_003_kalts.png",
+          "sha256": "5e204ab8a34c616987394d32d90f1ad6c3984f21c2da9e4fa61cf7ce5b2ae777"
+        }
+      ]
+    },
+    {
+      "name": "w",
+      "id": "char_113_cqbw",
+      "base": "char_113_cqbw",
+      "files": [
+        {
+          "url": "https://raw.githubusercontent.com/fexli/ArknightsResource/de6cfb30ed1d41d9102d93e8ea400fc0cefc8ff7/spine/char_113_cqbw/char_113_cqbw/Front/char_113_cqbw.atlas",
+          "file": "w/char_113_cqbw.atlas",
+          "sha256": "728e35e771b12b188f549b0e0bcd5a74c7fc4ac06cc44bd34c947ebc5195b799"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/fexli/ArknightsResource/de6cfb30ed1d41d9102d93e8ea400fc0cefc8ff7/spine/char_113_cqbw/char_113_cqbw/Front/char_113_cqbw.skel",
+          "file": "w/char_113_cqbw.skel",
+          "sha256": "3ab7ab21b507667118909c5622f9dca281cef127bb1b22377f250f730370a1c5"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/fexli/ArknightsResource/de6cfb30ed1d41d9102d93e8ea400fc0cefc8ff7/spine/char_113_cqbw/char_113_cqbw/Front/char_113_cqbw.png",
+          "file": "w/char_113_cqbw.png",
+          "sha256": "69c71cad7b78aec9664b555cfbe8979707c71801044b0fc7271527774ec481ad"
+        }
+      ]
+    }
+  ],
+  "portraits": [
+    {
+      "name": "amiya",
+      "url": "https://raw.githubusercontent.com/fexli/ArknightsResource/de6cfb30ed1d41d9102d93e8ea400fc0cefc8ff7/charpor/char_002_amiya_1.png",
+      "file": "amiya/portrait.png",
+      "sha256": "953c7961caa7943d715e8653726665205e14a51c0f55de16d9cb7e99df3cf794"
+    },
+    {
+      "name": "kaltsit",
+      "url": "https://raw.githubusercontent.com/fexli/ArknightsResource/de6cfb30ed1d41d9102d93e8ea400fc0cefc8ff7/charpor/char_003_kalts_1.png",
+      "file": "kaltsit/portrait.png",
+      "sha256": "5300af206bfb5454761a4185b80bd1dcc1e5eb954fd9d1b6bfc5bc2e1eb53d36"
+    },
+    {
+      "name": "w",
+      "url": "https://raw.githubusercontent.com/fexli/ArknightsResource/de6cfb30ed1d41d9102d93e8ea400fc0cefc8ff7/charpor/char_113_cqbw_1.png",
+      "file": "w/portrait.png",
+      "sha256": "7477c2397e71e2cf18eec382e4fa626d63b1ae9bb4c3bc0e7b97c1da454e0279"
+    }
+  ]
+}

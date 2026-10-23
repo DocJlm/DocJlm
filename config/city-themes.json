@@ -1,0 +1,19 @@
+[
+  {
+    "type": "normal",
+    "fileName": "city-light.svg",
+    "backgroundColor": "#f7f9fa",
+    "foregroundColor": "#12161b",
+    "strongColor": "#cf4312",
+    "weakColor": "#596873",
+    "radarColor": "#008eab",
+    "growingAnimation": false,
+    "contribColors": [
+      "#e7edef",
+      "#c6eaf0",
+      "#73d4e4",
+      "#12b8d5",
+      "#007e99"
+    ]
+  }
+]

@@ -1,0 +1,32 @@
+{
+  "selectedConcept": "OPERATION / COMPILE, first displayed option",
+  "created": "2026-10-22",
+  "method": "Built-in image generation with selected-concept and matching desktop hero as visual references; no external service uploads.",
+  "assets": [
+    {
+      "file": "hero-desktop.png",
+      "sha256": "00d0292de3b80d56ddc0248730e4deae46857099ec59da3215c2aca403ab4036",
+      "kind": "AI-assisted fan illustration; not official game artwork"
+    },
+    {
+      "file": "hero-mobile.png",
+      "sha256": "f4ae4ac67eed1c2ff6dffc05f6e9cb06a11c634abaff7ff7e2560cfa00415423",
+      "kind": "AI-assisted fan illustration; not official game artwork"
+    },
+    {
+      "file": "scene-desktop.png",
+      "sha256": "b6b474b7a2f4178c8abea296a24b8afef2e217100f19a7715cf367e86affda4b",
+      "kind": "AI-assisted fan illustration; not official game artwork"
+    },
+    {
+      "file": "scene-mobile.png",
+      "sha256": "e4c5c418ce7c3ed9fa7e205bb382c8c79f2f572c34d168d17cd069eb7d1d0c85",
+      "kind": "AI-assisted fan illustration; not official game artwork"
+    },
+    {
+      "file": "selected-concept.png",
+      "sha256": "8d8dd302b1c9dfb8aa3895aa5f0d5a54836e1a22d29b5c54618563c66af4dde5",
+      "kind": "AI-assisted fan illustration; not official game artwork"
+    }
+  ]
+}

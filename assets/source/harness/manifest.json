@@ -1,0 +1,53 @@
+{
+  "created": "2026-10-22",
+  "generator": "OpenAI built-in image generation",
+  "classification": "AI-assisted fan illustration; not official game artwork",
+  "reference": "selected-concept.png",
+  "assets": [
+    {
+      "file": "selected-concept.png",
+      "generation_source": "/Users/zqc/.codex/generated_images/01a162fc-3635-7d50-b945-5bba3d4e894d/exec-6a63551f-c954-4786-b5c1-48b4d3363718.png",
+      "sha256": "abfeeaab06be0716924f4d4a9c6527fc7b10cf9ebb47176a42872ad287b3b313"
+    },
+    {
+      "file": "battle-desktop.png",
+      "generation_source": "/Users/zqc/.codex/generated_images/01a164d3-24c9-7832-b833-50f95c3c1067/exec-15d58a15-82b9-4f74-9083-5e277c9efa19.png",
+      "sha256": "ee094545c8c34bcfce0a5b91a7971b0e7a3157e8712e1291aff3f0e02717bc83"
+    },
+    {
+      "file": "battle-mobile.png",
+      "generation_source": "/Users/zqc/.codex/generated_images/01a164d3-697a-7f33-9320-8a56293662c3/exec-28de62f7-925e-4f28-b214-7591e5743091.png",
+      "sha256": "5a6463dd8946d0ab6af8b65b29c99152d71b4b7141b26a0f9a28be0255c2b3ef"
+    },
+    {
+      "file": "error-cube.png",
+      "generation_source": "/Users/zqc/.codex/generated_images/01a164d3-24c9-7832-b833-50f95c3c1067/exec-54fe1d6f-b66b-426e-a035-78d3615925d4.png",
+      "sha256": "03961c507bb5029b30faeb9e4f7db4455eceba84294bef5ae40044159815376b"
+    },
+    {
+      "file": "impact-cyan.png",
+      "generation_source": "/Users/zqc/.codex/generated_images/01a164d3-24c9-7832-b833-50f95c3c1067/exec-63e1a658-3859-4777-9e5b-eb9c7e575e59.png",
+      "sha256": "bc3c5f24f911c25ecd95b9ecabf29408473a8041a0e066c46f3ac45ed53d1518"
+    },
+    {
+      "file": "impact-orange.png",
+      "generation_source": "/Users/zqc/.codex/generated_images/01a164d3-697a-7f33-9320-8a56293662c3/exec-2002f9f2-6e1c-41f9-998c-5a86856108e2.png",
+      "sha256": "b96775b32819a94ee065a211e57450846e906406c27962a0116f005c3c542059"
+    },
+    {
+      "file": "containment-pink.png",
+      "generation_source": "/Users/zqc/.codex/generated_images/01a164d2-e3ec-76d0-ae66-616877b9ce55/exec-8d8220a6-2109-43f4-b912-d07c1e724cf9.png",
+      "sha256": "87d1f84674abae390dc54bc0f77af53d29662c01c3feb8249a30d1b6aaed5cf3"
+    },
+    {
+      "file": "theresa-portrait.png",
+      "generation_source": "/Users/zqc/.codex/generated_images/01a164d2-e3ec-76d0-ae66-616877b9ce55/exec-89d4409c-9217-442b-9d87-6f7314c0bdb0.png",
+      "sha256": "9505e90e8cf2708e07d24c8b6a134e304885b825668b6f1dab7b4c126f42e5e3"
+    },
+    {
+      "file": "deploy-gate.png",
+      "generation_source": "/Users/zqc/.codex/generated_images/01a164d3-24c9-7832-b833-50f95c3c1067/exec-082af87e-8926-4935-b70e-cacb6c2727a7.png",
+      "sha256": "95a90fe5d7f42d9db7ff81aaee312eb38605a4da5fea9304690d6a3133439e6b"
+    }
+  ]
+}

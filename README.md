@@ -1,37 +1,65 @@
-<h1 align="center">Hi 👋, I'm DocJlm<br><br> <img src="https://komarev.com/ghpvc/?username=DocJlm&style=for-the-badge"></h1>
-
-# 💫 About Me:
-🌐 My Website: [[zqcblog.com](https://www.zqcblog.com/)]<br><br>📺 My YouTube Channel: [link]<br><br>🛠️ I’m currently working on: [link or description]<br><br>🌱 I’m currently learning Java backend development and deep learning<br><br>✍️ I regularly write articles on my website and Medium: [link]<br><br>📫 How to reach me **zqc0914@gmail.com**<br><br>📄 Resume: [resume link]<br><br>
-
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Gitee](https://img.shields.io/badge/Gitee-C71D23?style=for-the-badge&logo=gitee&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DocJlm/DocJlm/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DocJlm/DocJlm/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/DocJlm/DocJlm/output/github-snake.svg" />
+  <source media="(max-width: 600px) and (prefers-reduced-motion: reduce)" srcset="assets/harness/babel-harness-mobile.png">
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/harness/babel-harness-desktop.png">
+  <source media="(max-width: 600px)" srcset="assets/harness/babel-harness-mobile.gif">
+  <img src="assets/harness/babel-harness-desktop.gif" width="100%" alt="DocJlm — Building with AI. Creating with curiosity. A 24-second Babel Agent Harness story: Amiya calls a tool, Theresa contains an error, Kal’tsit verifies a repair and W releases the result. A scripted fan-made animation, not a live agent session.">
 </picture>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=DocJlm&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=DocJlm&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DocJlm&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=DocJlm&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<sub>01 / THE PERSON BEHIND THE CODE</sub>
+
+### Hi, I'm DocJlm.
+
+A hobbyist programmer building a company and working as a **Forward Deployed Engineer**, helping businesses put AI to work.
+
+I feel fortunate to be creating in a time of extraordinary progress in AI.
+
+**[Explore my personal world ↗](https://www.zqcblog.com/)**
+
+<br>
+
+<sub>02 / BEYOND THE CODE</sub>
+
+### Same curiosity. Different worlds.
+
+**CREATE** &nbsp; Vibe Coding · Poetry · Music Composition · Video Creation<br>
+**LIVE** &nbsp; Music · Basketball · Travel<br>
+**PLAY** &nbsp; Arknights
+
+<sub>BABEL / AGENT HARNESS — Theresa contains and repairs; Amiya calls tools; Kal’tsit verifies; W releases. A fan-made ReAct story with original game-model animation and illustrated scenery. <a href="CREDITS.md">Models & artwork credits</a>.</sub>
+
+<br>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=DocJlm&icon=2&color=0)](https://visitcount.itsvg.in)
 
- <!-- 
-## 💰 You can help me by Donating
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/hhh) 
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/hhh) 
-[![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/hhh) 
-[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/hhh) 
--->
+<sub>03 / SMALL STEPS, EVERY DAY</sub>
 
+### Contribution Trails
 
+A little curiosity, leaving a trail.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<picture>
+  <img src="https://raw.githubusercontent.com/DocJlm/DocJlm/output/github-snake.svg" width="100%" alt="An animated cyan snake tracing DocJlm's GitHub contributions.">
+</picture>
+
+<br>
+
+<sub>04 / BUILT ONE COMMIT AT A TIME</sub>
+
+### A City Built Over Time
+
+Small things, patiently built, become a world.
+
+<picture>
+  <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/DocJlm/DocJlm/output/city-mobile.svg">
+  <img src="https://raw.githubusercontent.com/DocJlm/DocJlm/output/city-light.svg" width="100%" alt="DocJlm's contribution city, language distribution, contribution profile, totals and date range.">
+</picture>
+
+<br>
+
+---
+
+If you're curious about what I'm building, you're welcome to join me.
+
+<sub>Inspired by Theresa and the world of Arknights. Character artwork © Hypergryph. <a href="CREDITS.md">Artwork & credits</a> · Contributions rendered with <a href="https://github.com/Platane/snk">snk</a> and <a href="https://github.com/yoshi389111/github-profile-3d-contrib">3D Contrib</a>.</sub>

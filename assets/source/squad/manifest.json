@@ -1,0 +1,110 @@
+{
+  "repository": "https://github.com/isHarryh/Ark-Models",
+  "revision": "e65fb9147846b64bcf2df956b8cd8da77a51b9b8",
+  "assets": [
+    {
+      "name": "theresa",
+      "id": "3007_lrssia",
+      "base": "enemy_3007_lrssia",
+      "files": [
+        {
+          "url": "https://raw.githubusercontent.com/isHarryh/Ark-Models/e65fb9147846b64bcf2df956b8cd8da77a51b9b8/models_enemies/3007_lrssia/enemy_3007_lrssia.atlas",
+          "file": "theresa/enemy_3007_lrssia.atlas",
+          "sha256": "87d9c29918b7213e5988b42349b9f6a37b443507f0dc8d0d5acb2c21d52cc67f"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/isHarryh/Ark-Models/e65fb9147846b64bcf2df956b8cd8da77a51b9b8/models_enemies/3007_lrssia/enemy_3007_lrssia.skel",
+          "file": "theresa/enemy_3007_lrssia.skel",
+          "sha256": "68e6bd01c999f9e39dabf0da6609c87f2b7f27ccc4d86121cf4b9219420d115e"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/isHarryh/Ark-Models/e65fb9147846b64bcf2df956b8cd8da77a51b9b8/models_enemies/3007_lrssia/enemy_3007_lrssia.png",
+          "file": "theresa/enemy_3007_lrssia.png",
+          "sha256": "511196d39881ec49eee3c71ec96612c770a5dfac78477c57f1341aee8a350240"
+        }
+      ]
+    },
+    {
+      "name": "amiya",
+      "id": "002_amiya",
+      "base": "build_char_002_amiya",
+      "files": [
+        {
+          "url": "https://raw.githubusercontent.com/isHarryh/Ark-Models/e65fb9147846b64bcf2df956b8cd8da77a51b9b8/models/002_amiya/build_char_002_amiya.atlas",
+          "file": "amiya/build_char_002_amiya.atlas",
+          "sha256": "696114f96f2a2366fc4a373bd1d08c7569f9eb279305347364ffd629eab9d9b5"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/isHarryh/Ark-Models/e65fb9147846b64bcf2df956b8cd8da77a51b9b8/models/002_amiya/build_char_002_amiya.skel",
+          "file": "amiya/build_char_002_amiya.skel",
+          "sha256": "41908ed5c73ed9c5b5616a7c45d61275c29319fbb6a46068df5a4d0c6f5c7bff"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/isHarryh/Ark-Models/e65fb9147846b64bcf2df956b8cd8da77a51b9b8/models/002_amiya/build_char_002_amiya.png",
+          "file": "amiya/build_char_002_amiya.png",
+          "sha256": "618d7ce9cc18e4ef46cb5f513ffebc0b6b7b7e08f8e0f12a7abb3ff93547d7e4"
+        }
+      ]
+    },
+    {
+      "name": "kaltsit",
+      "id": "003_kalts",
+      "base": "build_char_003_kalts",
+      "files": [
+        {
+          "url": "https://raw.githubusercontent.com/isHarryh/Ark-Models/e65fb9147846b64bcf2df956b8cd8da77a51b9b8/models/003_kalts/build_char_003_kalts.atlas",
+          "file": "kaltsit/build_char_003_kalts.atlas",
+          "sha256": "cc245ca899d25df397a1aab19cf359c9851849dad8db3f8264f5aef725dc0a0d"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/isHarryh/Ark-Models/e65fb9147846b64bcf2df956b8cd8da77a51b9b8/models/003_kalts/build_char_003_kalts.skel",
+          "file": "kaltsit/build_char_003_kalts.skel",
+          "sha256": "3f946202a188aadadd1adc1436f89891c545b50a210c12f3ac3e7a40f5bc4070"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/isHarryh/Ark-Models/e65fb9147846b64bcf2df956b8cd8da77a51b9b8/models/003_kalts/build_char_003_kalts.png",
+          "file": "kaltsit/build_char_003_kalts.png",
+          "sha256": "e0a3f9fc65139520536e9a7b4c2ee03eb481277bb3ef591cb658a95ad00bcd53"
+        }
+      ]
+    },
+    {
+      "name": "w",
+      "id": "113_cqbw",
+      "base": "build_char_113_cqbw",
+      "files": [
+        {
+          "url": "https://raw.githubusercontent.com/isHarryh/Ark-Models/e65fb9147846b64bcf2df956b8cd8da77a51b9b8/models/113_cqbw/build_char_113_cqbw.atlas",
+          "file": "w/build_char_113_cqbw.atlas",
+          "sha256": "050e3dcad708e23a870ea2268a3dd19f689ec8968388442d79406b040cbc7f87"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/isHarryh/Ark-Models/e65fb9147846b64bcf2df956b8cd8da77a51b9b8/models/113_cqbw/build_char_113_cqbw.skel",
+          "file": "w/build_char_113_cqbw.skel",
+          "sha256": "5d7eb50e73888748aca53f78f86bacaf10793bfa7a68347ed7781e9f07d4c88c"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/isHarryh/Ark-Models/e65fb9147846b64bcf2df956b8cd8da77a51b9b8/models/113_cqbw/build_char_113_cqbw.png",
+          "file": "w/build_char_113_cqbw.png",
+          "sha256": "c22feecc19fd37acfa148e181caf16039941e1eb802d4b945f904c0f50a2343c"
+        }
+      ]
+    }
+  ],
+  "emblems": [
+    {
+      "name": "babel",
+      "page": "https://prts.wiki/w/\u6587\u4ef6:Logo \u5df4\u522b\u5854.png",
+      "url": "https://media.prts.wiki/b/b9/Logo_%E5%B7%B4%E5%88%AB%E5%A1%94.png",
+      "file": "babel.png",
+      "sha256": "9ff82af0c1b01e6d6b029e9531311acf0bad6e914d2ffcfaf1cd524f8a219ecb"
+    },
+    {
+      "name": "rhodes",
+      "page": "https://prts.wiki/w/\u6587\u4ef6:Logo \u7f57\u5fb7\u5c9b.png",
+      "url": "https://media.prts.wiki/4/41/Logo_%E7%BD%97%E5%BE%B7%E5%B2%9B.png",
+      "file": "rhodes.png",
+      "sha256": "d732dc7a3888cacc55433e2813b309a610b30719ab740662668266273300cfb3"
+    }
+  ]
+}

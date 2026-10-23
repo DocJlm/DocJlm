@@ -1,0 +1,136 @@
+{
+  "fps": 15,
+  "frames": 360,
+  "seconds": 24,
+  "phases": [
+    {
+      "start": 0,
+      "end": 3,
+      "key": "decide",
+      "label": "DECIDE",
+      "color": "#00d5f5",
+      "line": 4,
+      "caption": "SELECT THE NEXT ACTION"
+    },
+    {
+      "start": 3,
+      "end": 7,
+      "key": "act",
+      "label": "ACT",
+      "color": "#00d5f5",
+      "line": 6,
+      "caption": "CALL TOOL / OBSERVE FAILURE"
+    },
+    {
+      "start": 7,
+      "end": 13,
+      "key": "repair",
+      "label": "REPAIR",
+      "color": "#ff4fa7",
+      "line": 7,
+      "caption": "CONTAIN THE ERROR. REPAIR THE CALL."
+    },
+    {
+      "start": 13,
+      "end": 18,
+      "key": "verify",
+      "label": "OBSERVE",
+      "color": "#9fdf68",
+      "line": 6,
+      "caption": "RETRY / VERIFY THE RESULT"
+    },
+    {
+      "start": 18,
+      "end": 21,
+      "key": "deploy",
+      "label": "VERIFIED",
+      "color": "#ff6b28",
+      "line": 5,
+      "caption": "PATCH VERIFIED / RELEASE"
+    },
+    {
+      "start": 21,
+      "end": 24,
+      "key": "checkpoint",
+      "label": "CHECKPOINT",
+      "color": "#00d5f5",
+      "line": 8,
+      "caption": "SAVE CONTEXT / NEXT ITERATION"
+    }
+  ],
+  "demonstration": {
+    "status": "verified",
+    "calls": 2,
+    "retries": 1,
+    "patched": true,
+    "state": {
+      "task": "Repair a timed-out tool call",
+      "observations": [
+        {
+          "ok": false,
+          "kind": "timeout"
+        },
+        {
+          "ok": true,
+          "kind": "patch"
+        },
+        {
+          "ok": true,
+          "kind": "result"
+        }
+      ]
+    },
+    "events": [
+      {
+        "at": 0,
+        "type": "decide",
+        "message": "Select tools.run"
+      },
+      {
+        "at": 3,
+        "type": "call",
+        "message": "tools.run(task)"
+      },
+      {
+        "at": 5,
+        "type": "timeout",
+        "message": "ToolTimeout"
+      },
+      {
+        "at": 7,
+        "type": "repair",
+        "message": "Apply bounded retry policy"
+      },
+      {
+        "at": 13,
+        "type": "call",
+        "message": "tools.run(task)"
+      },
+      {
+        "at": 16,
+        "type": "verified",
+        "message": "PASS test_tool_retry"
+      },
+      {
+        "at": 21,
+        "type": "checkpoint",
+        "message": "verified"
+      }
+    ]
+  },
+  "rendering": "Spine 3.8.99 / source illustration layers / native code typography",
+  "outputs": {
+    "desktop": {
+      "width": 1536,
+      "height": 1024,
+      "bytes": 20907630,
+      "target": 20000000
+    },
+    "mobile": {
+      "width": 768,
+      "height": 1408,
+      "bytes": 14668869,
+      "target": 12000000
+    }
+  }
+}

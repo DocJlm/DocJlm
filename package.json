@@ -1,0 +1,23 @@
+{
+  "name": "docjlm-profile-preview",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build:hero": "node scripts/build_hero.mjs",
+    "build:preview": "node scripts/build_preview.mjs",
+    "test": "python3 -m unittest discover -s tests && node tests/workflow.mjs && node tests/harness.mjs",
+    "build:squad": "node scripts/build_squad.mjs",
+    "build:harness": "node scripts/build_harness.mjs",
+    "demo": "python3 scripts/harness_demo.py"
+  },
+  "devDependencies": {
+    "@napi-rs/canvas": "0.1.80",
+    "@node-spine-runtimes/core-3.8.99": "0.1.1",
+    "github-markdown-css": "5.9.0",
+    "marked": "16.4.2",
+    "yaml": "2.8.1"
+  },
+  "overrides": {
+    "canvas": "npm:@napi-rs/canvas@0.1.80"
+  }
+}

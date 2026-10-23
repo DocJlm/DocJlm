@@ -1,0 +1,56 @@
+name: Update profile artwork
+
+on:
+  schedule:
+    - cron: '17 7 * * *'
+  workflow_dispatch:
+  push:
+    branches: [master]
+    paths:
+      - '.github/workflows/profile-art.yml'
+      - 'config/**'
+      - 'scripts/prepare_artwork.py'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-artwork-output
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Check out profile
+        uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+
+      - name: Generate contribution trails
+        uses: Platane/snk@d8f6715049803e982ee5ff501b6b9b7d5deeb09b # v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            snake-art/github-snake.svg?color_snake=%2300a7c8&color_dots=%23e7edef,%23c6eaf0,%2373d4e4,%2312b8d5,%23007e99
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate contribution cities
+        uses: yoshi389111/github-profile-3d-contrib@e235d118909be71eb7edb05482a3de4e76156df3
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+          SETTING_JSON: config/city-themes.json
+
+      - name: Prepare and validate light artwork and mobile layout
+        run: python3 scripts/prepare_artwork.py --snake-dir snake-art --city-dir profile-3d-contrib --output-dir dist
+
+      # This is the only publishing step. Any earlier failure preserves output.
+      - name: Publish complete artwork set
+        uses: peaceiris/actions-gh-pages@329bcc8f12caed2cefe5a5b80781499a6f3b361b # v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: output
+          publish_dir: dist
+          keep_files: true
+          commit_message: 'Update Babel Agent Harness contribution artwork'

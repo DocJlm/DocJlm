@@ -1,0 +1,10 @@
+.DS_Store
+__pycache__/
+*.pyc
+dist/
+snake-art/
+profile-3d-contrib/
+.preview/
+
+/preview.html
+node_modules/
