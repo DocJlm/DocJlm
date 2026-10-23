@@ -56,6 +56,6 @@ python3 scripts/prepare_artwork.py --snake-dir snake-art --city-dir profile-3d-c
 
 Only intentional local snapshots may use --preview. The daily/manual/master workflow uses pinned actions and built-in GITHUB_TOKEN, generates the cyan snake and complete light city, validates all three derived outputs, then publishes in one final step. Any earlier failure skips publication and keeps the previous output branch intact. It never rebuilds the hero animation.
 
-## Remote validation deferred
+## Publication status
 
-Actual GitHub image proxy playback, native picture selection, token permissions, complete statistic values and Actions success remain to be verified after separate publication authorization. The local preview is not evidence of a hosted Actions run.
+Published on 2026-10-22 after explicit user authorization. The public profile loaded desktop/mobile images and the first full contribution workflow succeeded: https://github.com/DocJlm/DocJlm/actions/runs/39880648912. See VALIDATION.md for exact release/output commits and data. The bundled offline preview is the historical pre-publication data snapshot; use the public profile for current daily data.

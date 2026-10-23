@@ -58,3 +58,8 @@ The user identified the original battle effects and console as insufficiently pr
 Corrections: enlarged raster cast/impact effects driven by the Attack period; a multi-target pink field with gather/compress/clear progression; a larger phase-specific exception/patch workspace; red/green code rows and four repair steps; synchronized console edge, battlefield banner and active operator portrait. A mobile banner initially touched the portrait rail and was moved before final encoding.
 
 Final `comparison-full.png` and `comparison-detail.png` were recaptured from the actual browser and opened beside the selected reference. Typography retains the dominant black name; console hierarchy is now more readable than the concept's dense microcopy. The palette has stronger state-dependent cyan/pink/green/orange contrast. Layout and portrait scale remain stable. Existing raster source effects retain crisp transparency, and native copy/source credits remain unchanged. Sequential effects intentionally differ from the concept's simultaneous composite. No actionable P0/P1/P2 remains in the compared local states; final result remains passed.
+
+
+## Hosted verification follow-up
+
+The user subsequently authorized publication. Actual https://github.com/DocJlm rendering was opened and inspected at desktop and mobile sizes; both GIF variants and the complete contribution images loaded. The first new daily workflow succeeded, including generation, validation and output publication. The complete language/radar/summary areas now show real data. See VALIDATION.md for run, commit and snapshot details. Earlier local-only boundary statements describe the original delivery stage.

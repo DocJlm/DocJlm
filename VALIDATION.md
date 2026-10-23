@@ -1,6 +1,6 @@
 # Local verification — BABEL / AGENT HARNESS
 
-2026-10-22 · branch `design/theresa-babel-profile` · no remote publication.
+2026-10-22 · branch `design/theresa-babel-profile`. The local checks below were completed before publication; the hosted verification record follows.
 
 ## Automated checks
 
@@ -52,3 +52,13 @@ See `MAINTENANCE.md` for dependency, generation and preview commands; `CREDITS.m
 New shared-cue assertions check that the patch is not shown before 10 seconds, error compression starts only after it, errors clear by 13 seconds, and verification does not claim success until 16 seconds. All 10 Python tests, workflow checks and the extended animation integration suite passed after rendering. Existing game models and source hashes are unchanged.
 
 The console now promotes timeout and patch details into its main code workspace. The battlefield and mobile/desktop patch panels read the same TRACE/BIND/PATCH/CLEAR cues. Amiya's cast envelope follows the 1.7667-second Attack cycle. Pink multi-target containment, error compression and the matching highlighted operator rail were inspected in phase proofs and the browser. A mobile banner/portrait overlap found in the first proof was corrected before final rendering.
+
+## Published verification — 2026-10-22 (America/Los_Angeles)
+
+Published to https://github.com/DocJlm through commit `d54966b234a2dca08506f3176b28754552717711` on `master`, without rewriting existing history. The first new artwork workflow succeeded: https://github.com/DocJlm/DocJlm/actions/runs/39880648912. It atomically published output commit `093a13f11387602d55f8e7d1cb6cf13843066e4a`.
+
+Actual public GitHub rendering loaded the 1536×1024 desktop GIF, 768×1408 mobile GIF, cyan snake, full desktop city and compact mobile city. GitHub retained all responsive and reduced-motion picture source rules. A live browser desktop screenshot and full page were saved as `outputs/github-live-desktop.png` and `outputs/github-live-full.png`; `github-live-city.png` shows the real complete chart.
+
+The generated SVG has all four calendar/radar/language/summary panels and no Awaiting first sync marker. It reports 3,765 contributions, 23 cumulative repository Stars and 1 Fork for upstream period 2025-10-19 / 2026-10-23 (the generator uses its own date boundary). These are generated snapshot values, not permanent account totals. The offline preview retains its explicitly identified pre-publication calendar snapshot; the public GitHub page is authoritative for daily refreshed data.
+
+Vendored source bytes are protected from Git line-ending conversion by `.gitattributes`, preserving the recorded original font-license checksum.

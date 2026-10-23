@@ -1,0 +1,2 @@
+# Preserve vendored source bytes recorded in provenance manifests.
+assets/source/** -text
